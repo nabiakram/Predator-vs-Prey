@@ -1,11 +1,5 @@
 # Predator Prey Simulation
 
-**Your Name** 
- - nakram@gwu.edu
- - nabiakram
-
-The starter code creates an empty world and draws it to the screen. Look through the code and read the comments to learn what the different classes and functions do. You are free to modify *any* code in the template project
-
 **Classes and Functionality** 
 
 _PPSIM_
@@ -30,4 +24,4 @@ This class is very similar to the predator class. There are a couple of changes,
 
 _Special Feature_
 
-My special feature is located in the mouseClicked function, where it adds the predators based on the mouse click. I decided to also add a prey to every location along with the predator. I thought this was cool because sometimes the prey would be immediately eaten and sometimes the prey was able to run away from the predator. What I really wanted to do was, when you pressed 'p' it would add a prey randomly to the screen where there wasnt a wall and a predator, but I needed more time to figure out how to implement it in the keyTyped function. 
+My special feature is located in the mouseClicked function, where it adds the predators based on the mouse click. I decided to also add a prey to every location along with the predator. I thought this was cool because sometimes the prey would be immediately eaten and sometimes the prey was able to run away from the predator.
